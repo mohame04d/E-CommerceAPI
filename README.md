@@ -28,8 +28,6 @@ It handles products, users, orders, payments, and more.
 - `STRIPE_SECRET_KEY` → Stripe secret key
 - `PORT` → Server port (default: 5000)
 
-- ### License
-MIT © MohamedHakeem
 
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/mohamedhakeem) | [GitHub](https://github.com/mohame04d)
